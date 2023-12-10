@@ -38,7 +38,7 @@
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   }
   .button-option:hover{
-    background-color: #0d3963;
+    background-color: #0b3358;
     transition: 0.5s;
     cursor: pointer;
   }
